@@ -1,0 +1,11 @@
+.w_h_adjust
+{
+    width: 60% !important;
+}
+
+@media screen and (max-width: 480px) {
+    .w_h_adjust
+    {
+        width: 100% !important;
+    }
+  }
